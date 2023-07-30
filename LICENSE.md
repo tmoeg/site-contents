@@ -1,4 +1,4 @@
-Copyright (c) 2022 Alexander Alexandrov
+Copyright (c) 2023 Alexander Alexandrov
 
 Это произведение распространяется по лицензии Creative Commons «Attribution-NonCommercial»
 («С указанием авторства-Некоммерческая») 4.0 Международная. Чтобы ознакомиться с экземпляром этой лицензии,
