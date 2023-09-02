@@ -119,7 +119,7 @@ hide:
     <img class="row-flex-container__image shadow" alt="Meeting" src="/assets/discord meeting.png" style="transform: rotate(0.8deg); object-position: left;">
 </div>
 
-<h2 class="lending-h2">Тут все свои. Присоединяйся!</h2>
+<h2 class="lending-h2" style="font-family: 'Oswald';">Тут все свои. Присоединяйся!</h2>
 
 <iframe class="widgetbot-embed" sandbox="allow-same-origin || allow-top-navigation || allow-forms || allow-scripts" title="WidgetBot Discord chat embed" src="https://e.widgetbot.io/channels/985462082814226432/985462083858624526/?api=e6b5699b-bfdb-4f11-9f95-df9e742ebab6" ></iframe>
 <div class="widgetbot-embed__login-button">
@@ -253,3 +253,7 @@ hide:
     };
 
 </script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+</style>

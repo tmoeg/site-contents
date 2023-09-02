@@ -330,3 +330,6 @@ render_macros: true
         }
     });
 </script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+</style>
