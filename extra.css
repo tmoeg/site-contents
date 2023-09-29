@@ -353,9 +353,10 @@
   }
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 60em) {
   .hero__fake-sidebar {
     visibility: collapse;
+    display: none;
   }
 }
 
