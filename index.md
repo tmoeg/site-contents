@@ -92,8 +92,10 @@ hide:
 <h3 class="lending-h3 color-grey">Популярные технологии в сообществе:</h3>
 
 <div class="lending-logo-container">
-    <img width=80px alt="GDScript" src="/assets/godot_logo.svg">
-    <img width=80px alt="GDScript" src="/assets/git_logo.svg">
+    <img width=80px alt="C-Sharp" title="C-Sharp" src="/assets/c-sharp-logo.svg">
+    <img width=80px alt="Godot" title="Godot" src="/assets/godot_logo.svg">
+    <img width=80px alt="Blender" title="Blender" src="/assets/blender-logo.svg">
+    <img width=80px alt="Git" title="Git" src="/assets/git_logo.svg">
     <p class="lending-logo-container__text-label">Roblox</p>
 </div>
 
