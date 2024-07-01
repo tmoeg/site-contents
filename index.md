@@ -84,6 +84,18 @@ hide:
     </div>
 </div>
 
+<div class="capsule capsule--left">
+    <div class="capsule__content">
+        <h3 class="capsule__title">События</h3>
+
+        Организация и помощь в проведении геймджемов, конкурсов, мастерклассов, лекций, курсов и других ивентов
+    </div>
+    <div class="capsule__image">
+        <img src="/assets/discord meeting 2.png">
+        <a class="md-button md-button--primary" href="/learn/events">Подробнее</a>
+    </div>
+</div>
+
 <h2 class="lending-h2">Получи максимальную пользу</h2>
 <p class="lending-big-text">Не стесняйся обращаться, начни учиться вместе с нами</p>
 

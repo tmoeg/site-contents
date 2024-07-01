@@ -1,2 +1,6 @@
 nav:
-    
+    - index.md
+    - tmoeg-community.md
+    - events.md
+    - community-friends.md
+    - ...
