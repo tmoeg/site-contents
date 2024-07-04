@@ -21,7 +21,7 @@ git init
 git config --global core.editor "nano"
 ```
 
-## 4. Прочитайте главу 2.2
+## 3. Прочитайте главу 2.2
 
 После прочтения этой главы вы научитесь работе с индексом гит.
 
@@ -31,10 +31,10 @@ git config --global core.editor "nano"
 
 <a class="md-button md-button--primary" target="_blank" href="https://git-scm.com/book/ru/v2/Основы-Git-Запись-изменений-в-репозиторий">Pro Git Глава 2.2</a>
 
-## 5. Закоммитьте несохраненные изменения
+## 4. Закоммитьте несохраненные изменения
 
 Архив с выполненными занятиями потребуется вам в конце курса
 
-## 6. Посмотрите видео для закрепления материала
+## 5. Посмотрите видео для закрепления материала
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2F77U-2FuQ?si=8eaeLkhM7c-BTWNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

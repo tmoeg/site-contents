@@ -56,7 +56,7 @@ git config --global user.email johndoe@example.com # ПОМЕНЯЙТЕ НА В�
 
 ["Подробнее про настройку пользователя видео"](https://youtu.be/hWiqh6YUUS8?si=P9Yt_TMKoQ1tj3qt){target="_blank"}
 
-## 4. Прочитайте главу 2.1
+## 5. Прочитайте главу 2.1
 
 После прочтения этой главы вы научитесь инициализировать/клонировать репозитории, коммитить изменения
 
@@ -69,7 +69,7 @@ git config --global user.email johndoe@example.com # ПОМЕНЯЙТЕ НА В�
 
 <a class="md-button md-button--primary" target="_blank" href="https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория">Pro Git Глава 2.1</a>
 
-## 5. Итог
+## 6. Итог
 
 В конце занятия содержимое вашей подпапки должно выглядеть примерно так:
 

@@ -44,9 +44,9 @@ cd C:/путь/к/папке/курса/2.bash-quick-intro
 
 !!! warning
 
-    Команды: sudo, top на windows вызовутся с ошибкой
+    Команды: man, sudo, top на windows вызовутся с ошибкой
     ```
-    bash: sudo: команда не найдена
+    bash: man: команда не найдена
     ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycnusRjMoa0?si=3Uoa_ZNJiMWo4rqx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
