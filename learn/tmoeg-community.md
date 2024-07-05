@@ -36,7 +36,7 @@ TMOEG ("The most ordinary educational group" временное название
 
 ## 1. Объединение предпрофессиональных IT сообществ и волонтерских организаций СНГ
 
-В мировой практике сообщества, местные клубы обычно объединяются под крылом некоммерческих волонтерских организации. Примеры: [1](https://hackclub.com/), [2](https://international.codeclub.org/), [3](https://coderdojo.com/en/).
+В мировой практике сообщества, местные клубы обычно объединяются под крылом некоммерческих волонтерских организации. Примеры: [1](https://hackclub.com/){target="_blank"}, [2](https://international.codeclub.org/){target="_blank"}, [3](https://coderdojo.com/en/){target="_blank"}.
 
 "Региональные особенности" СНГ не позволили таким организациям преуспеть. Наша цель - создать иной адаптированный под регион формат организации объединения предпрофессионального IT сообщества.
 
@@ -53,7 +53,7 @@ TMOEG ("The most ordinary educational group" временное название
 
 В обучении программированию и остальному IT давно назревал переход от классического академического подхода к более практическому обучению и внедрению технологий.
 
-Пример: [Metarhia Github](https://github.com/metarhia) [Metarhia YouTube](https://youtube.com/playlist?list=PLHhi8ymDMrQYEncnRabYxnNfRFLrnK9Gp)
+Пример: [Metarhia Github](https://github.com/metarhia){target="_blank"} [Metarhia YouTube](https://youtube.com/playlist?list=PLHhi8ymDMrQYEncnRabYxnNfRFLrnK9Gp){target="_blank"} [The Rolling Scopes](https://rs.school/){target="_blank"}
 
 Необходимость этих изменений многим очевидны. Хоть у нас пока нет прямых статистических подтверждений их эффективности, но на интуитивном локальном уровне предполагаем, что такой переход делает процесс обучения дешевле и эффективнее.
 

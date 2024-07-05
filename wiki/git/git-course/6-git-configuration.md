@@ -58,3 +58,9 @@
 
 
 <a class="md-button md-button--primary" target="_blank" href="https://git-scm.com/book/ru/v2/Настройка-Git-Конфигурация-Git">Pro Git Глава 8.1</a>
+
+## 4. Псевдонимы в Git
+
+У вас есть возможность создавать собственные сокращения длинных команд. Подробнее в главе
+
+<a class="md-button md-button--primary" target="_blank" href="https://git-scm.com/book/ru/v2/Основы-Git-Псевдонимы-в-Git">Pro Git Глава 2.7</a>

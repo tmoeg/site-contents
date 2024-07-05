@@ -2,3 +2,5 @@ nav:
     - about.md
     - git-basics-course.md
     - ...
+    - 10-tagging.md
+    - 11-branches-in-a-nutshell.md
