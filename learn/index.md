@@ -6,7 +6,7 @@ description: "Обучение IT в сообществе TMOEG. Изучайт�
 Мы неформальное товарищество компьютерных энтузиастов, объединяющее несколько тематических сообществ СНГ
 
 <a class="md-button md-button--primary" href="https://discord.gg/EBdzkaw7xa" target="_blank">Наш Discord</a>
-
+<a class="md-button md-button--primary" href="https://t.me/tmoeg_tg" target="_blank">Наш Telegram</a>
 
 Как получить максимальную пользу от сообщества?
 

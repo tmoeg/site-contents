@@ -23,6 +23,7 @@ hide:
             <p>Открываем для молодежи из регионов бесплатные клубы</p>
             <div class="hero__button-container">
                 <a class="md-button md-button--primary" href="https://discord.gg/EBdzkaw7xa" target="_blank">Наш Discord</a>
+                <a class="md-button md-button--primary" href="https://t.me/tmoeg_tg" target="_blank">Наш Telegram</a>
             </div>
         </div>
         <div class="hero__fake-sidebar"></div>   
@@ -46,7 +47,7 @@ hide:
 </ul>
 
 <h2 class="lending-h2">Наши проекты:</h2>
-<div class="capsule capsule--right" style="margin-top: 50px;">
+<!-- <div class="capsule capsule--right" style="margin-top: 50px;">
     <div class="capsule__image">
         <img src="assets/typing.gif">
         <a class="md-button md-button--primary" href="/learn/godot-bootcamp/about/">Подробнее</a>
@@ -58,7 +59,7 @@ hide:
         Бесплатная программа адаптации начинающих в инди геймдеве
 
     </div>
-</div>
+</div> -->
 
 <div class="capsule capsule--left">
     <div class="capsule__content">
@@ -125,7 +126,7 @@ hide:
 
 <div class="row-flex-container">
     <ul class="row-flex-container__list color-grey">
-        <li>Самоорганизуемся в дискорде</li>
+        <li>Самоорганизуемся в чатах</li>
         <li>Используем бесплатные сервисы, софт, материалы для обучения</li>
         <li>Совместно создаем образовательный контент</li>
         <li><span class="text-label">TODO</span><span style="opacity: 0.7">Иногда вживую собираемся в бесплатных общественных площадках: библиотеках, культурных центрах</span></li>
